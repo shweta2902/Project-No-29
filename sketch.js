@@ -92,7 +92,7 @@ function draw() {
   block10.display();
   block11.display();
   block12.display();
-  fill("turquoise");
+  fill("green");
   block13.display();
   block14.display();
   block15.display();
@@ -104,7 +104,7 @@ function draw() {
   blocks3.display();
   blocks4.display();
   blocks5.display();
-  fill("turquoise");
+  fill("green");
   blocks6.display();
   blocks7.display();
   blocks8.display();
