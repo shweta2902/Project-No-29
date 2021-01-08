@@ -78,7 +78,7 @@ function draw() {
   stand2.display();
   strokeWeight(2);
   stroke(15);
-  fill("skyblue");
+  fill("cyan");
   block1.display();
   block2.display();
   block3.display();
@@ -86,7 +86,7 @@ function draw() {
   block5.display();
   block6.display();
   block7.display();
-  fill("pink");
+  fill("red");
   block8.display();
   block9.display();
   block10.display();
@@ -96,7 +96,7 @@ function draw() {
   block13.display();
   block14.display();
   block15.display();
-  fill("grey");
+  fill("blue");
   block16.display();
   fill("skyblue");
   blocks1.display();
